@@ -3,3 +3,4 @@
 3rd habit: Try to keep it simple and understandable.
 4th habit: Get in the zone. Make sure you have a few hours uninterupted coding time.
 5th habit: Try to always learn new things.
+6th habit: Be a team player, and ask for help from others.
